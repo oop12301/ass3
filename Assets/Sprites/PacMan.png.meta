@@ -1,22 +1,22 @@
 fileFormatVersion: 2
-guid: c125b2abd3194a54e93213493d23574f
+guid: 67f9baec2e3fb18439751688b57ca14c
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -6888756438569675735
-    second: New Piskel (1)_0
+      213: -3321498941453827467
+    second: PacMan_0
   - first:
-      213: 9173839873224666002
-    second: New Piskel (1)_1
+      213: -4846512288533807152
+    second: PacMan_1
   - first:
-      213: -745645855993587873
-    second: New Piskel (1)_2
+      213: -4965534678816845940
+    second: PacMan_2
   - first:
-      213: 4123733795721074919
-    second: New Piskel (1)_3
+      213: 2147333226481060340
+    second: PacMan_3
   - first:
-      213: -1753449832276896209
-    second: New Piskel (1)_4
+      213: -7941566741350543336
+    second: PacMan_4
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -106,7 +106,49 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: New Piskel (1)_0
+      name: PacMan_0
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 308
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5720fc09f4aa7e1d0800000000000000
+      internalID: -3321498941453827467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PacMan_1
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 308
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0df706260cabdbcb0800000000000000
+      internalID: -4846512288533807152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PacMan_2
       rect:
         serializedVersion: 2
         x: 48
@@ -120,14 +162,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 9249ede64883660a0800000000000000
-      internalID: -6888756438569675735
+      spriteID: c8f0d35a480e61bb0800000000000000
+      internalID: -4965534678816845940
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: New Piskel (1)_1
+      name: PacMan_3
       rect:
         serializedVersion: 2
         x: 176
@@ -141,35 +183,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 29beed572c6005f70800000000000000
-      internalID: 9173839873224666002
+      spriteID: 4f90cc2413cdccd10800000000000000
+      internalID: 2147333226481060340
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: New Piskel (1)_2
-      rect:
-        serializedVersion: 2
-        x: 304
-        y: 180
-        width: 23
-        height: 31
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: f5792496b0fe6a5f0800000000000000
-      internalID: -745645855993587873
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: New Piskel (1)_3
+      name: PacMan_4
       rect:
         serializedVersion: 2
         x: 48
@@ -183,29 +204,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 7e85a3ae9027a3930800000000000000
-      internalID: 4123733795721074919
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: New Piskel (1)_4
-      rect:
-        serializedVersion: 2
-        x: 176
-        y: 52
-        width: 23
-        height: 31
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: f26daafeaae7aa7e0800000000000000
-      internalID: -1753449832276896209
+      spriteID: 8109ebdff13e9c190800000000000000
+      internalID: -7941566741350543336
       vertices: []
       indices: 
       edges: []
@@ -213,7 +213,7 @@ TextureImporter:
     outline: []
     physicsShape: []
     bones: []
-    spriteID: ef0b14e7dccd1364ea0f2e106486737b
+    spriteID: 073824b61bdc6f440a67ee1410d289de
     internalID: 0
     vertices: []
     indices: 
